@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "asset_type": "connection",
+    "name": "Cloud Database",
+    "origin_country": "us",
+    "rov": {
+      "mode": 0
+    },
+    "resource_key": "0000:0000:0000:0000:0000:FFFF:A930:8822|32286|bludb",
+    "asset_category": "USER",
+    "created_at": "2023-06-07T02:12:28Z",
+    "created": 1686103948827,
+    "asset_id": "connection.CloudDatabase",
+    "asset_attributes": [
+      "connection"
+    ]
+  },
+  "entity": {
+    "connection": {
+      "datasource_type": "506039fb-802f-4ef2-a2bf-c1682e9c8aa2",
+      "context": "source,target",
+      "flags": [],
+      "ref_catalog_id": "9ab334e9-9d33-473a-beb9-2484de6ca22e",
+      "ref_asset_id": "dc1efa60-fdaf-4cb6-b04e-2f97f67f9d3d"
+    }
+  },
+  "attachments": []
+}
